@@ -29,7 +29,7 @@ KSP 2D 的「最新消息」内容仓库。
 
 ## 三种访问地址
 
-以 `news.json` 为例（图片同理，把 `news.json` 换成 `images/2026-06-01-a.png`）：
+以 `news.json` 为例（图片同理，把 `news.json` 换成 `images/2026-10-31-a.png`）：
 
 ```text
 raw      : https://raw.githubusercontent.com/XiaoMeng0000/ksp2d-news/main/news.json
